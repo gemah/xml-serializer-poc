@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <Product>
+    <Id>1</Id>
+    <Name>Product 1</Name>
+    <Price>1000</Price>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Name>Product 2</Name>
+    <Price>2000</Price>
+  </Product>
+  <Product>
+    <Id>3</Id>
+    <Name>Product 3</Name>
+    <Price>3000</Price>
+  </Product>
+  <Product>
+    <Id>4</Id>
+    <Name>Product 4</Name>
+    <Price>4000</Price>
+  </Product>
+</Table>

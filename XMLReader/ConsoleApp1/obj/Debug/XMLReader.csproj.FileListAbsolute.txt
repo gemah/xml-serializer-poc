@@ -1,0 +1,7 @@
+D:\PoCs\xml\XMLReader\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\PoCs\xml\XMLReader\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\PoCs\xml\XMLReader\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\PoCs\xml\XMLReader\ConsoleApp1\obj\Debug\XMLReader.csprojAssemblyReference.cache
+D:\PoCs\xml\XMLReader\ConsoleApp1\obj\Debug\XMLReader.csproj.CoreCompileInputs.cache
+D:\PoCs\xml\XMLReader\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\PoCs\xml\XMLReader\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
