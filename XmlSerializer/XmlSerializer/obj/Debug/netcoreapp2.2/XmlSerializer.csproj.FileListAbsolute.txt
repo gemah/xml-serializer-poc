@@ -1,0 +1,11 @@
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\bin\Debug\netcoreapp2.2\XmlSerializer.deps.json
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\bin\Debug\netcoreapp2.2\XmlSerializer.runtimeconfig.json
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\bin\Debug\netcoreapp2.2\XmlSerializer.runtimeconfig.dev.json
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\bin\Debug\netcoreapp2.2\XmlSerializer.dll
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\bin\Debug\netcoreapp2.2\XmlSerializer.pdb
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\obj\Debug\netcoreapp2.2\XmlSerializer.csprojAssemblyReference.cache
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\obj\Debug\netcoreapp2.2\XmlSerializer.csproj.CoreCompileInputs.cache
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\obj\Debug\netcoreapp2.2\XmlSerializer.AssemblyInfoInputs.cache
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\obj\Debug\netcoreapp2.2\XmlSerializer.AssemblyInfo.cs
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\obj\Debug\netcoreapp2.2\XmlSerializer.dll
+D:\PoCs\xml\serializer\XmlSerializer\XmlSerializer\obj\Debug\netcoreapp2.2\XmlSerializer.pdb
